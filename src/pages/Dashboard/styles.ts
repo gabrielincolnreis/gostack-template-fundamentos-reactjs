@@ -80,7 +80,7 @@ export const TableContainer = styled.section`
       }
 
       &.outcome {
-        color: #e83f5b;
+        color: black;
       }
     }
 

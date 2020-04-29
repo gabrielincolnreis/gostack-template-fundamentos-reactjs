@@ -1,5 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import Routes from './routes';
 
